@@ -5,5 +5,9 @@ console.log(presidents[i]);
 }
 
 
+ var stringOfNumbers = " ";
+ for (var x = 10; x<21; x++){
+ 	console.log(x);
+ }
 
 
